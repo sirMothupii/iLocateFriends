@@ -1,0 +1,8 @@
+package com.example.mothupii_.ilocatefriends;
+
+/**
+ * Created by Mothupii_ on 2017-10-17.
+ */
+
+class PRIORITY_HIGH_ACCURACY {
+}

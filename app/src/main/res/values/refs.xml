@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="logout" />
+    <drawable name="change_password" />
+    <drawable name="update_account" />
+    <drawable name="gps_green" />
+    <drawable name="friend_photo" />
+</resources>

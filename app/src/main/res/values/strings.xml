@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">iLocateFriends</string>
+    <string name="forgot_link" />
+    <string name="header_activity_pending_invitations" />
+    <string name="login_title" />
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map" />
+    <string name="hint_name_new" />
+    <string name="title_activity_settings" />
+    <string name="user_account" />
+    <string name="logout" />
+    <string name="change_password" />
+    <string name="update_account" />
+    <string name="app_details" />
+    <string name="help_title" />
+    <string name="help_subtitle" />
+    <string name="version_subtitle" />
+    <string name="version_title" />
+    <string name="hint_password_new" />
+    <string name="hint_password_verify" />
+    <string name="cancel_button" />
+    <string name="submit_button" />
+    <string name="hint_email">hint_email</string>
+    <string name="hint_password">hint_password</string>
+    <string name="sign_in_button">sign_in_button</string>
+</resources>
